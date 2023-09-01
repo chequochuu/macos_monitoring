@@ -1,18 +1,577 @@
-2023-09-01 17:46:56 - Chrome - aaa
-2023-09-01 17:47:01 - Chrome - aaa
-2023-09-01 17:49:11 - Chrome - No URL Found
-2023-09-01 17:49:21 - Chrome - No URL Found
-2023-09-01 17:49:26 - Chrome - No URL Found
-2023-09-01 17:49:31 - Chrome - No URL Found
-2023-09-01 17:49:36 - Chrome - No URL Found
-2023-09-01 17:49:42 - Chrome - No URL Found
-2023-09-01 17:50:12 - Chrome - No URL Found
-2023-09-01 17:50:17 - Chrome - No URL Found
-2023-09-01 17:50:22 - Chrome - No URL Found
-2023-09-01 17:50:27 - Chrome - No URL Found
-2023-09-01 17:50:32 - Chrome - No URL Found
-2023-09-01 17:50:37 - Chrome - No URL Found
-2023-09-01 17:51:02 - Chrome - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4
-2023-09-01 17:51:07 - Chrome - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4
-2023-09-01 17:51:12 - Chrome - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4
-2023-09-01 17:51:17 - Chrome - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4
+2023-09-01 19:01:30 # Iterm Python Monitor.Py 
+2023-09-01 19:01:35 # Iterm Tail -F Activity_Log.Txt 
+2023-09-01 19:01:44 # Google Chrome  - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:01:51 # Google Chrome  - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:01:56 # Iterm Vim Activity_Log.Txt 
+2023-09-01 19:02:01 # Iterm Vim Monitor.Py 
+2023-09-01 19:02:56 # Iterm Python Monitor.Py 
+2023-09-01 19:03:18 # Google Chrome  - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:03:23 # Iterm Vim Debug_Adhoc/Log2.Txt 
+2023-09-01 19:03:28 # Iterm Python Monitor.Py 
+2023-09-01 19:03:36 # Google Chrome  - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:03:50 # Google Chrome  - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:03:55 # Iterm Vim Monitor.Py 
+2023-09-01 19:04:00 # Iterm Vim Monitor.Py 
+2023-09-01 19:04:05 # Iterm Vim Monitor.Py 
+2023-09-01 19:04:10 # Iterm Python Monitor.Py 
+2023-09-01 19:04:18 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:04:37 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:04:42 # Iterm Vim Monitor.Py 
+2023-09-01 19:04:47 # Iterm Vim Monitor.Py 
+2023-09-01 19:04:52 # Iterm Vim Monitor.Py 
+2023-09-01 19:05:03 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:05:08 # Iterm Vim Monitor.Py 
+2023-09-01 19:05:13 # Iterm Vim Monitor.Py 
+2023-09-01 19:05:18 # Iterm Che@Ches-Macbook-Pro:~/Code/Monitor_Window 
+2023-09-01 19:05:23 # Iterm Vim Monitor.Py 
+2023-09-01 19:05:28 # Iterm Vim Monitor.Py 
+2023-09-01 19:05:34 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:05:41 # Iterm Vim Monitor.Py 
+2023-09-01 19:05:46 # Iterm Vim Monitor.Py 
+2023-09-01 19:05:51 # Iterm Python Monitor.Py 
+2023-09-01 19:05:56 # Iterm Che@Ches-Macbook-Pro:~/Code/Monitor_Window 
+2023-09-01 19:06:01 # Iterm Che@Ches-Macbook-Pro:~/Code/Monitor_Window 
+2023-09-01 19:06:06 # Calendar Calendar 
+2023-09-01 19:06:11 # Intellij Idea .Ijwb – Merging_Io.Py (Unsynced) 
+2023-09-01 19:06:16 # Intellij Idea .Ijwb – Merging_Io.Py (Unsynced) 
+2023-09-01 19:06:21 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:06:26 # Intellij Idea .Ijwb – Merging_Io.Py (Unsynced) 
+2023-09-01 19:06:31 # Iterm Python Monitor.Py 
+2023-09-01 19:06:40 # Google Chrome From Champion To Criminal - The Story Of Life In Starcraft 2 - Youtube - https://www.youtube.com/watch?v=rcd2LBUYIlI 
+2023-09-01 19:06:45 # Iterm Vim Monitor.Py 
+2023-09-01 19:06:50 # Iterm Vim Monitor.Py 
+2023-09-01 19:06:55 # Iterm Vim Monitor.Py 
+2023-09-01 19:07:00 # Iterm Vim Monitor.Py 
+2023-09-01 19:07:05 # Iterm Vim Monitor.Py 
+2023-09-01 19:07:10 # Iterm Vim Monitor.Py 
+2023-09-01 19:07:15 # Iterm Vim Monitor.Py 
+2023-09-01 19:07:20 # Iterm Vim Monitor.Py 
+2023-09-01 19:07:25 # Iterm Vim Monitor.Py 
+2023-09-01 19:07:30 # Iterm Vim Monitor.Py 
+2023-09-01 19:07:35 # Iterm Python Monitor.Py 
+2023-09-01 19:07:37 # Iterm Python Monitor.Py 
+2023-09-01 19:07:52 # Iterm Python Monitor.Py 
+2023-09-01 19:08:07 # Google Chrome From Champion To Criminal - The Story Of Life In Starcraft 2 - Youtube - https://www.youtube.com/watch?v=rcd2LBUYIlI 
+2023-09-01 19:08:12 # Iterm Vim Monitor.Py 
+2023-09-01 19:08:17 # Iterm Python Monitor.Py 
+2023-09-01 19:08:22 # Google Chrome Freedom - Block Websites, Apps, And The Internet - https://freedom.to/dashboard 
+2023-09-01 19:08:32 # Iterm Python Monitor.Py 
+2023-09-01 19:09:11 # Google Chrome From Champion To Criminal - The Story Of Life In Starcraft 2 - Youtube - https://www.youtube.com/watch?v=rcd2LBUYIlI 
+2023-09-01 19:09:36 # Google Chrome From Champion To Criminal - The Story Of Life In Starcraft 2 - Youtube - https://www.youtube.com/watch?v=rcd2LBUYIlI 
+2023-09-01 19:09:41 # Iterm Vim Monitor.Py 
+2023-09-01 19:09:46 # Iterm Vim Monitor.Py 
+2023-09-01 19:09:51 # Iterm Vim Monitor.Py 
+2023-09-01 19:09:56 # Iterm Vim Monitor.Py 
+2023-09-01 19:10:01 # Iterm Vim Monitor.Py 
+2023-09-01 19:10:06 # Iterm Vim Monitor.Py 
+2023-09-01 19:10:11 # Iterm Vim Monitor.Py 
+2023-09-01 19:10:16 # Iterm Vim Monitor.Py 
+2023-09-01 19:10:21 # Iterm Vim Monitor.Py 
+2023-09-01 19:10:26 # Iterm Vim Monitor.Py 
+2023-09-01 19:10:31 # Iterm Vim Monitor.Py 
+2023-09-01 19:10:36 # Iterm Vim Monitor.Py 
+2023-09-01 19:10:41 # Iterm Vim Monitor.Py 
+2023-09-01 19:10:46 # Iterm Vim Monitor.Py 
+2023-09-01 19:10:51 # Iterm Vim Monitor.Py 
+2023-09-01 19:10:56 # Iterm Vim Monitor.Py 
+2023-09-01 19:11:01 # Iterm Vim Monitor.Py 
+2023-09-01 19:11:06 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:11:11 # Iterm Vim Monitor.Py 
+2023-09-01 19:11:16 # Iterm Vim Monitor.Py 
+2023-09-01 19:11:21 # Iterm Vim Monitor.Py 
+2023-09-01 19:11:26 # Iterm Vim Monitor.Py 
+2023-09-01 19:11:31 # Iterm Vim Monitor.Py 
+2023-09-01 19:11:36 # Iterm Vim Monitor.Py 
+2023-09-01 19:11:41 # Iterm Vim Monitor.Py 
+2023-09-01 19:11:50 # Google Chrome Youtube.Com/Watch?V=Xljrpmfiyw8&T=1S - https://www.youtube.com/watch?v=xljrPMFIyW8&t=1s 
+2023-09-01 19:11:55 # Iterm Vim Monitor.Py 
+2023-09-01 19:12:00 # Iterm Vim Monitor.Py 
+2023-09-01 19:12:05 # Iterm Vim Monitor.Py 
+2023-09-01 19:12:10 # Iterm Vim Monitor.Py 
+2023-09-01 19:13:22 # Iterm Python Monitor.Py 
+2023-09-01 19:14:21 # Google Chrome  - https://www.youtube.com/watch?v=xljrPMFIyW8&t=1s 
+2023-09-01 19:14:38 # Google Chrome Facebook - https://www.facebook.com/stories/1450706995019514/UzpfSVNDOjY0NjQ3NDk0MDU4ODc1OQ==/?bucket_count=9&source=story_tray 
+2023-09-01 19:14:41 # Iterm Python Monitor.Py 
+2023-09-01 19:16:00 # Iterm Python Monitor.Py 
+2023-09-01 19:16:40 # Google Chrome Facebook - https://www.facebook.com/stories/1450706995019514/UzpfSVNDOjY0NjQ3NDk0MDU4ODc1OQ==/?bucket_count=9&source=story_tray 
+2023-09-01 19:16:43 # Iterm Python Monitor.Py 
+2023-09-01 19:17:57 # Iterm Python Monitor.Py 
+2023-09-01 19:18:49 # Google Chrome Facebook - https://www.facebook.com/stories/1450706995019514/UzpfSVNDOjY0NjQ3NDk0MDU4ODc1OQ==/?bucket_count=9&source=story_tray 
+2023-09-01 19:19:05 # Google Chrome  - https://www.youtube.com/watch?v=xljrPMFIyW8 
+2023-09-01 19:19:10 # Iterm Vim Monitor.Py 
+2023-09-01 19:19:15 # Iterm Vim Monitor.Py 
+2023-09-01 19:19:21 # Iterm Python Monitor.Py 
+2023-09-01 19:19:38 # Google Chrome Maxpax Vs Maru | $40,000 Masters Coliseum Group A (Bo3 Tvp) - Starcraft 2 - Youtube 🔊 - https://www.youtube.com/watch?v=xljrPMFIyW8 
+2023-09-01 19:19:43 # Iterm Python Monitor.Py 
+2023-09-01 19:19:48 # Iterm Vim Monitor.Py 
+2023-09-01 19:19:53 # Iterm Vim Monitor.Py 
+2023-09-01 19:19:58 # Iterm Python Monitor.Py 
+2023-09-01 19:20:03 # Iterm Python Monitor.Py 
+2023-09-01 19:20:08 # Intellij Idea .Ijwb – Merging_Io.Py (Unsynced) 
+2023-09-01 19:20:13 # Iterm Che@Ches-Macbook-Pro:~/Code/Monitor_Window 
+2023-09-01 19:20:24 # Google Chrome Maxpax Vs Maru | $40,000 Masters Coliseum Group A (Bo3 Tvp) - Starcraft 2 - Youtube 🔊 - https://www.youtube.com/watch?v=xljrPMFIyW8 
+2023-09-01 19:20:35 # Google Chrome Maxpax Vs Maru | $40,000 Masters Coliseum Group A (Bo3 Tvp) - Starcraft 2 - Youtube - https://www.youtube.com/watch?v=xljrPMFIyW8&t=1s 
+2023-09-01 19:23:33 # Google Chrome Maxpax Vs Maru | $40,000 Masters Coliseum Group A (Bo3 Tvp) - Starcraft 2 - Youtube - https://www.youtube.com/watch?v=xljrPMFIyW8&t=1s 
+2023-09-01 19:23:44 # Google Chrome Maxpax Vs Maru | $40,000 Masters Coliseum Group A (Bo3 Tvp) - Starcraft 2 - Youtube - https://www.youtube.com/watch?v=xljrPMFIyW8&t=1s 
+2023-09-01 19:23:49 # Intellij Idea .Ijwb – Merging_Io.Py (Unsynced) 
+2023-09-01 19:23:54 # Google Chrome Proxy Object Weakref Callback 🔊 - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:23:59 # Google Chrome Proxy Object Weakref Callback 🔊 - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:24:04 # Google Chrome  - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:24:10 # Google Chrome Proxy Object Weakref Callback 🔊 - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:24:15 # Google Chrome Proxy Object Weakref Callback 🔊 - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:24:20 # Google Chrome Proxy Object Weakref Callback 🔊 - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:24:25 # Iterm Vim Monitor.Py 
+2023-09-01 19:24:30 # Iterm Vim Monitor.Py 
+2023-09-01 19:24:35 # Google Chrome Proxy Object Weakref Callback 🔊 - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:24:40 # Google Chrome Proxy Object Weakref Callback 🔊 - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:24:56 # Google Chrome Maxpax Vs Maru | $40,000 Masters Coliseum Group A (Bo3 Tvp) - Starcraft 2 - Youtube 🔊 - https://www.youtube.com/watch?v=xljrPMFIyW8&t=1s 
+2023-09-01 19:25:01 # Iterm Vim Monitor.Py 
+2023-09-01 19:25:06 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:25:11 # Iterm Vim Monitor.Py 
+2023-09-01 19:25:16 # Iterm Vim Monitor.Py 
+2023-09-01 19:25:21 # Iterm Vim Monitor.Py 
+2023-09-01 19:25:28 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:25:33 # Google Chrome From Champion To Criminal - The Story Of Life In Starcraft 2 - Youtube - https://www.youtube.com/watch?v=rcd2LBUYIlI 
+2023-09-01 19:25:38 # Iterm Vim Monitor.Py 
+2023-09-01 19:25:43 # Google Chrome From Champion To Criminal - The Story Of Life In Starcraft 2 - Youtube - https://www.youtube.com/watch?v=rcd2LBUYIlI 
+2023-09-01 19:25:48 # Script Editor Open 
+2023-09-01 19:25:54 # Google Chrome From Champion To Criminal - The Story Of Life In Starcraft 2 - Youtube - https://www.youtube.com/watch?v=rcd2LBUYIlI 
+2023-09-01 19:25:59 # Google Chrome From Champion To Criminal - The Story Of Life In Starcraft 2 - Youtube - https://www.youtube.com/watch?v=rcd2LBUYIlI 
+2023-09-01 19:26:04 # Google Chrome From Champion To Criminal - The Story Of Life In Starcraft 2 - Youtube - https://www.youtube.com/watch?v=rcd2LBUYIlI 
+2023-09-01 19:26:10 # Google Chrome From Champion To Criminal - The Story Of Life In Starcraft 2 - Youtube - https://www.youtube.com/watch?v=rcd2LBUYIlI 
+2023-09-01 19:26:15 # Google Chrome From Champion To Criminal - The Story Of Life In Starcraft 2 - Youtube - https://www.youtube.com/watch?v=rcd2LBUYIlI 
+2023-09-01 19:26:21 # Google Chrome Maxpax Vs Maru | $40,000 Masters Coliseum Group A (Bo3 Tvp) - Starcraft 2 - Youtube - https://www.youtube.com/watch?v=xljrPMFIyW8&t=1s 
+2023-09-01 19:26:26 # Google Chrome Maxpax Vs Maru | $40,000 Masters Coliseum Group A (Bo3 Tvp) - Starcraft 2 - Youtube - https://www.youtube.com/watch?v=xljrPMFIyW8&t=1s 
+2023-09-01 19:26:31 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:26:36 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:26:42 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:26:47 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:26:52 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:26:57 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:27:02 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:27:08 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:27:13 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:27:18 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:27:23 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:27:29 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:27:34 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:27:39 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:27:44 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:27:49 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:27:55 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:28:00 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:28:05 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:28:10 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:28:15 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:28:21 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:28:26 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:28:31 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:28:36 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:28:41 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:28:47 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:28:52 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:28:57 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:29:02 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:29:07 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:29:13 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:29:18 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:29:23 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:29:28 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:29:34 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:29:39 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:29:44 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:29:49 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:29:54 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:30:00 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:30:05 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:30:10 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:30:15 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:30:20 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:30:26 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:30:31 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:30:36 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:30:41 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:30:46 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:30:52 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:30:57 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:31:02 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:31:07 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:31:13 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:31:18 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:31:23 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:31:28 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:31:33 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:31:39 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:31:44 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:31:49 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:31:54 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:31:59 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:32:05 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:32:10 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:32:15 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:32:20 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:32:26 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:32:31 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:32:36 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:32:41 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:32:47 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:32:52 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:32:57 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:33:02 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:33:07 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:33:13 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:33:18 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:33:23 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:33:28 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:33:34 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:33:39 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:33:44 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:33:50 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:33:55 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:34:00 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:34:05 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:34:11 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:34:16 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:34:21 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:34:26 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:34:31 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:34:37 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:34:42 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:34:47 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:34:52 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:34:58 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:35:03 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:35:08 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:35:13 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:35:18 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:35:24 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:35:29 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:35:34 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:35:39 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:35:45 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:35:50 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:35:55 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:36:00 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:36:05 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:36:11 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:36:16 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:36:21 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:36:26 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:36:31 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:36:37 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:36:42 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:36:47 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:36:52 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:36:57 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:37:03 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:37:12 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:37:18 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:37:23 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:37:28 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:37:33 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:37:38 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:37:44 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:37:49 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:37:54 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:37:59 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:38:05 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:38:10 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:38:15 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:38:20 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:38:25 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:38:31 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:38:36 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:38:41 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:38:46 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:38:51 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:38:57 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:39:02 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:39:07 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:39:12 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:39:17 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:39:23 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:39:28 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:39:33 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:39:38 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:39:43 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:39:49 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:39:54 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:39:59 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:40:04 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:40:10 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:40:15 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:40:20 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:40:25 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:40:30 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:40:36 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:40:41 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:40:46 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:40:51 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:40:56 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:41:02 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:41:07 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:41:12 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:41:17 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:41:22 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:41:28 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:41:33 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:41:38 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:41:43 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:41:48 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:41:54 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:41:59 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:42:04 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:42:09 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:42:15 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:42:20 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:42:25 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:42:30 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:42:36 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:42:41 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:42:46 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:42:51 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:42:56 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:43:02 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:43:07 # Google Chrome  - https://www.facebook.com/ 
+2023-09-01 19:43:13 # Google Chrome  - https://www.facebook.com/ 
+2023-09-01 19:43:18 # Google Chrome  - https://www.facebook.com/ 
+2023-09-01 19:43:23 # Google Chrome  - https://www.facebook.com/ 
+2023-09-01 19:43:28 # Iterm Python Monitor.Py 
+2023-09-01 19:43:34 # Google Chrome  - https://www.facebook.com/ 
+2023-09-01 19:43:39 # Google Chrome  - https://www.facebook.com/ 
+2023-09-01 19:43:44 # Google Chrome  - https://www.facebook.com/ 
+2023-09-01 19:43:49 # Iterm Vim Monitor.Py 
+2023-09-01 19:43:54 # Iterm Vim Monitor.Py 
+2023-09-01 19:43:59 # Iterm Vim Monitor.Py 
+2023-09-01 19:44:04 # Iterm Vim Monitor.Py 
+2023-09-01 19:44:09 # Iterm Vim Monitor.Py 
+2023-09-01 19:44:15 # Google Chrome Facebook - https://www.facebook.com/ 
+2023-09-01 19:44:20 # Google Chrome  - https://www.facebook.com/ 
+2023-09-01 19:44:25 # Script Editor Open 
+2023-09-01 19:44:30 # Script Editor Open 
+2023-09-01 19:44:35 # Script Editor Open 
+2023-09-01 19:44:41 # Google Chrome  - https://www.facebook.com/ 
+2023-09-01 19:44:46 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:44:51 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:44:56 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:45:02 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:45:07 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:45:12 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:45:17 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:45:22 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:45:28 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:45:33 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:45:38 # Iterm Python Monitor.Py 
+2023-09-01 19:45:43 # Intellij Idea .Ijwb – Merging_Io.Py (Unsynced) 
+2023-09-01 19:45:48 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:45:53 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:45:59 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:46:04 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:46:09 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:46:14 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:46:20 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:46:25 # Iterm Vim Monitor.Py 
+2023-09-01 19:46:30 # Iterm Vim Monitor.Py 
+2023-09-01 19:46:35 # Iterm Vim Monitor.Py 
+2023-09-01 19:46:41 # Iterm Python Monitor.Py 
+2023-09-01 19:47:07 # Google Chrome Facebook - https://www.facebook.com/ 
+2023-09-01 19:47:17 # Google Chrome  - https://www.facebook.com/ 
+2023-09-01 19:47:22 # Iterm Vim Monitor.Py 
+2023-09-01 19:47:27 # Iterm Vim Monitor.Py 
+2023-09-01 19:47:34 # Google Chrome  - https://www.facebook.com/ 
+2023-09-01 19:47:39 # Iterm Vim Monitor.Py 
+2023-09-01 19:47:42 # Google Chrome Facebook - https://www.facebook.com/ 
+2023-09-01 19:47:48 # Google Chrome  - https://www.facebook.com/ 
+2023-09-01 19:47:53 # Google Chrome  - https://www.facebook.com/ 
+2023-09-01 19:47:58 # Google Chrome Facebook - https://www.facebook.com/ 
+2023-09-01 19:48:03 # Script Editor Open 
+2023-09-01 19:48:08 # Iterm Python Monitor.Py 
+2023-09-01 19:48:14 # Google Chrome Facebook - https://www.facebook.com/ 
+2023-09-01 19:48:19 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:48:24 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:48:29 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:48:35 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:48:40 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:48:45 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:48:50 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:48:56 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:49:01 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:49:06 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:49:11 # Iterm Vim Monitor.Py 
+2023-09-01 19:49:16 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:49:21 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:49:27 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:49:32 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:49:37 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:49:42 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:49:47 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:49:53 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:49:58 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:50:03 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:50:08 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:50:14 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:50:19 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:50:24 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:50:29 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:50:34 # Intellij Idea .Ijwb – Merging_Io.Py (Unsynced) 
+2023-09-01 19:50:39 # Intellij Idea .Ijwb – Merging_Io.Py (Unsynced) 
+2023-09-01 19:50:45 # Iterm Python Monitor.Py 
+2023-09-01 19:50:50 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:51:09 # Google Chrome  - https://www.facebook.com/ 
+2023-09-01 19:51:22 # Google Chrome Facebook - https://www.facebook.com/ 
+2023-09-01 19:51:27 # Iterm Vim Monitor.Py 
+2023-09-01 19:51:32 # Iterm Vim Monitor.Py 
+2023-09-01 19:51:37 # Iterm Vim Monitor.Py 
+2023-09-01 19:51:42 # Iterm Che@Ches-Macbook-Pro:~/Code/Monitor_Window 
+2023-09-01 19:51:47 # Iterm Python3 
+2023-09-01 19:51:52 # Iterm Python3 
+2023-09-01 19:51:57 # Iterm Vim Monitor.Py 
+2023-09-01 19:52:02 # Iterm Vim Monitor.Py 
+2023-09-01 19:52:07 # Iterm Vim Monitor.Py 
+2023-09-01 19:52:12 # Iterm Vim Monitor.Py 
+2023-09-01 19:52:17 # Iterm Vim Monitor.Py 
+2023-09-01 19:52:22 # Iterm Vim Monitor.Py 
+2023-09-01 19:52:27 # Iterm Vim Monitor.Py 
+2023-09-01 19:52:32 # Iterm Vim Monitor.Py 
+2023-09-01 19:52:37 # Iterm Vim Monitor.Py 
+2023-09-01 19:52:42 # Iterm Python Monitor.Py 
+2023-09-01 19:52:54 # Google Chrome  - https://www.facebook.com/ 
+2023-09-01 19:53:10 # Google Chrome Facebook - https://www.facebook.com/ 
+2023-09-01 19:53:15 # Iterm Vim Monitor.Py 
+2023-09-01 19:53:20 # Iterm Vim Monitor.Py 
+2023-09-01 19:53:25 # Iterm Python Monitor.Py 
+2023-09-01 19:53:52 # Iterm Python Monitor.Py 
+2023-09-01 19:54:04 # Google Chrome Facebook - https://www.facebook.com/ 
+2023-09-01 19:54:09 # Google Chrome Facebook - https://www.facebook.com/reel/1414951999346329/?s=ifu 
+2023-09-01 19:54:15 # Google Chrome Facebook 🔊 - https://www.facebook.com/reel/1414951999346329 
+2023-09-01 19:54:20 # Google Chrome Facebook 🔊 - https://www.facebook.com/reel/1414951999346329 
+2023-09-01 19:54:25 # Google Chrome Facebook 🔊 - https://www.facebook.com/reel/1414951999346329 
+2023-09-01 19:54:30 # Google Chrome Facebook 🔊 - https://www.facebook.com/reel/1414951999346329 
+2023-09-01 19:54:36 # Google Chrome Facebook 🔊 - https://www.facebook.com/reel/1414951999346329 
+2023-09-01 19:54:41 # Google Chrome  - https://www.facebook.com/ 
+2023-09-01 19:54:46 # Google Chrome  - https://www.facebook.com/ 
+2023-09-01 19:54:51 # Iterm Vim Monitor.Py 
+2023-09-01 19:54:56 # Iterm Python3 
+2023-09-01 19:55:01 # Iterm Vim Monitor.Py 
+2023-09-01 19:55:06 # Iterm Vim Monitor.Py 
+2023-09-01 19:55:11 # Iterm Vim Monitor.Py 
+2023-09-01 19:55:16 # Iterm Vim Monitor.Py 
+2023-09-01 19:55:21 # Iterm Vim Monitor.Py 
+2023-09-01 19:55:26 # Iterm Vim Monitor.Py 
+2023-09-01 19:55:31 # Iterm Vim Monitor.Py 
+2023-09-01 19:56:39 # Google Chrome Facebook 🔊 - https://www.facebook.com/ 
+2023-09-01 19:56:42 # Iterm Python Monitor.Py 
+2023-09-01 19:56:47 # Iterm Python Monitor.Py 
+2023-09-01 19:56:52 # Iterm Python Monitor.Py 
+2023-09-01 19:56:57 # Iterm Python Monitor.Py 
+2023-09-01 19:57:02 # Iterm Python Monitor.Py 
+2023-09-01 19:57:07 # Iterm Vim Monitor.Py 
+2023-09-01 19:57:12 # Iterm Vim Monitor.Py 
+2023-09-01 19:57:17 # Iterm Vim Monitor.Py 
+2023-09-01 19:57:22 # Google Chrome Chequochuu/Macos_Monitoring - https://github.com/chequochuu/macos_monitoring 
+2023-09-01 19:57:42 # Google Chrome  - https://www.facebook.com/ 
+2023-09-01 19:57:47 # Iterm Python Monitor.Py 
+2023-09-01 19:57:50 # Iterm Python Monitor.Py 
+2023-09-01 19:57:55 # Iterm Python Monitor.Py 
+2023-09-01 19:58:00 # Iterm Python Monitor.Py 
+2023-09-01 19:58:11 # Google Chrome Facebook - https://www.facebook.com/ 
+2023-09-01 19:58:17 # Google Chrome Facebook - https://www.facebook.com/ 
+2023-09-01 19:58:22 # Google Chrome Facebook - https://www.facebook.com/ 
+2023-09-01 19:58:27 # Google Chrome  - https://www.facebook.com/ 
+2023-09-01 19:58:32 # Google Chrome  - https://www.facebook.com/ 
+2023-09-01 19:58:38 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:58:43 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:58:48 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:58:53 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:58:58 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:59:04 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:59:09 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:59:14 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:59:19 # System Settings Appearance 
+2023-09-01 19:59:24 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:59:30 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 19:59:35 # System Settings Appearance 
+2023-09-01 19:59:40 # System Settings Appearance 
+2023-09-01 19:59:45 # System Settings Appearance 
+2023-09-01 19:59:50 # System Settings Appearance 
+2023-09-01 19:59:55 # System Settings Users & Groups 
+2023-09-01 20:00:00 # System Settings Users & Groups 
+2023-09-01 20:00:05 # System Settings Users & Groups 
+2023-09-01 20:00:10 # System Settings Users & Groups 
+2023-09-01 20:00:15 # Google Chrome  - chrome://newtab/ 
+2023-09-01 20:00:20 # Google Chrome  - chrome://newtab/ 
+2023-09-01 20:00:25 # Google Chrome  - chrome://newtab/ 
+2023-09-01 20:00:31 # Google Chrome  - https://www.google.com/search?q=why+my+spotlight+not+know+where+to+find+application&rlz=1C5CHFA_enVN934VN934&oq=why+my+spotlight+not+know+where+to+find+application&aqs=chrome..69i57.14357j0j7&sourceid=chrome&ie=UTF-8 
+2023-09-01 20:00:36 # Google Chrome  - https://www.google.com/search?q=why+my+spotlight+not+know+where+to+find+application&rlz=1C5CHFA_enVN934VN934&oq=why+my+spotlight+not+know+where+to+find+application&aqs=chrome..69i57.14357j0j7&sourceid=chrome&ie=UTF-8 
+2023-09-01 20:00:41 # System Settings Users & Groups 
+2023-09-01 20:00:46 # System Settings Users & Groups 
+2023-09-01 20:00:51 # System Settings Siri & Spotlight 
+2023-09-01 20:00:56 # System Settings Siri & Spotlight 
+2023-09-01 20:01:01 # System Settings Siri & Spotlight 
+2023-09-01 20:01:06 # System Settings Siri & Spotlight 
+2023-09-01 20:01:11 # System Settings Siri & Spotlight 
+2023-09-01 20:01:16 # System Settings Siri & Spotlight 
+2023-09-01 20:01:21 # System Settings Siri & Spotlight 
+2023-09-01 20:01:26 # System Settings Siri & Spotlight 
+2023-09-01 20:01:31 # System Settings Siri & Spotlight 
+2023-09-01 20:01:36 # Spotify Spotify Premium 
+2023-09-01 20:01:41 # Finder Applications 
+2023-09-01 20:01:46 # Finder Applications 
+2023-09-01 20:01:51 # System Settings Appearance 
+2023-09-01 20:01:56 # System Settings General 
+2023-09-01 20:02:01 # System Settings Users & Groups 
+2023-09-01 20:02:06 # System Settings Users & Groups 
+2023-09-01 20:02:11 # System Settings Users & Groups 
+2023-09-01 20:02:16 # System Settings Keyboard 
+2023-09-01 20:02:21 # System Settings Users & Groups 
+2023-09-01 20:02:26 # System Settings  
+2023-09-01 20:02:31 # System Settings Users & Groups 
+2023-09-01 20:02:36 # System Settings Login Items 
+2023-09-01 20:02:41 # System Settings Login Items 
+2023-09-01 20:02:46 # System Settings Login Items 
+2023-09-01 20:02:51 # System Settings Login Items 
+2023-09-01 20:02:56 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 20:03:01 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 20:03:07 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 20:03:12 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 20:03:17 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 20:03:22 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 20:04:09 # Google Chrome  - https://www.facebook.com/ 
+2023-09-01 20:04:14 # Iterm Vim Monitor.Py 
+2023-09-01 20:04:19 # Iterm Vim Monitor.Py 
+2023-09-01 20:04:24 # Iterm Python Monitor.Py 
+2023-09-01 20:04:29 # Iterm Python Monitor.Py 
+2023-09-01 20:04:34 # Iterm Python Monitor.Py 
+2023-09-01 20:04:39 # Iterm Vim Monitor.Py 
+2023-09-01 20:04:44 # Iterm Vim Monitor.Py 
+2023-09-01 20:04:49 # Iterm Vim Monitor.Py 
+2023-09-01 20:04:54 # Iterm Vim Monitor.Py 
+2023-09-01 20:04:59 # Iterm Vim Monitor.Py 
+2023-09-01 20:05:04 # Iterm Vim Monitor.Py 
+2023-09-01 20:05:09 # Iterm Vim Monitor.Py 
+2023-09-01 20:05:14 # Iterm Python Monitor.Py 
+2023-09-01 20:05:19 # Iterm Python Monitor.Py 
+2023-09-01 20:05:24 # Iterm Vim Monitor.Py 
+2023-09-01 20:05:29 # Iterm Python Monitor.Py 
+2023-09-01 20:05:34 # Iterm Che@Ches-Macbook-Pro:~/Code/Monitor_Window 
+2023-09-01 20:05:44 # Google Chrome Facebook - https://www.facebook.com/ 
+2023-09-01 20:05:49 # Google Chrome  - https://www.facebook.com/ 
+2023-09-01 20:05:54 # Google Chrome Facebook - https://www.facebook.com/ 
+2023-09-01 20:06:00 # Google Chrome Facebook - https://www.facebook.com/ 
+2023-09-01 20:06:05 # Google Chrome Facebook - https://www.facebook.com/ 
+2023-09-01 20:06:10 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 20:06:15 # Iterm Che@Ches-Macbook-Pro:~/Code/Monitor_Window 
+2023-09-01 20:06:20 # Google Chrome Proxy Object Weakref Callback - https://chat.openai.com/c/acfc09c4-b9ad-476d-b2b3-cb861ef606f4 
+2023-09-01 20:06:25 # Iterm Crontab -E 
+2023-09-01 20:06:30 # Iterm Python Monitor.Py 
+2023-09-01 20:06:43 # Iterm Che@Ches-Macbook-Pro:~/Code/Monitor_Window 
+2023-09-01 20:06:48 # Iterm Che@Ches-Macbook-Pro:~/Code/Monitor_Window 
+2023-09-01 20:06:53 # Iterm Che@Ches-Macbook-Pro:~/Code/Monitor_Window 
+2023-09-01 20:06:58 # Iterm Che@Ches-Macbook-Pro:~/Code/Monitor_Window 
+2023-09-01 20:07:03 # Iterm Che@Ches-Macbook-Pro:~/Code/Monitor_Window 
+2023-09-01 20:07:08 # Iterm Che@Ches-Macbook-Pro:~/Code/Monitor_Window 
+2023-09-01 20:07:13 # Iterm Che@Ches-Macbook-Pro:~/Code/Monitor_Window 
+2023-09-01 20:07:18 # Iterm Che@Ches-Macbook-Pro:~/Code/Monitor_Window 
+2023-09-01 20:07:23 # Iterm Vim Readme.Md 
+2023-09-01 20:07:28 # Iterm Vim Readme.Md 
+2023-09-01 20:07:33 # Iterm Che@Ches-Macbook-Pro:~/Code/Monitor_Window 
